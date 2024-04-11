@@ -1,0 +1,21 @@
+[
+    {
+        "nomeProduto": "Aero Daily Fitness Tee",
+        "tamanho": "XS",
+        "cor": "Yellow",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "M",
+        "cor": "Purple",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Autumn Pullie",
+        "tamanho": "XL",
+        "cor": "Red",
+        "quantidade": 4
+    }
+    
+]
